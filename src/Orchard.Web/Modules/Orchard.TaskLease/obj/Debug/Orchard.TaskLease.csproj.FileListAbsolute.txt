@@ -1,0 +1,8 @@
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.TaskLease\bin\Orchard.TaskLease.dll.config
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.TaskLease\bin\Orchard.TaskLease.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.TaskLease\bin\Orchard.TaskLease.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.TaskLease\bin\Autofac.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.TaskLease\bin\Autofac.xml
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.TaskLease\obj\Debug\Orchard.TaskLease.csprojResolveAssemblyReference.cache
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.TaskLease\obj\Debug\Orchard.TaskLease.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.TaskLease\obj\Debug\Orchard.TaskLease.pdb

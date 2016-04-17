@@ -1,0 +1,11 @@
+C:\Projects\HotTravel\src\Orchard.Profile\bin\Debug\Orchard.Profile.dll.config
+C:\Projects\HotTravel\src\Orchard.Profile\bin\Debug\Orchard.Profile.dll
+C:\Projects\HotTravel\src\Orchard.Profile\bin\Debug\Orchard.Profile.pdb
+C:\Projects\HotTravel\src\Orchard.Profile\bin\Debug\nunit.framework.dll
+C:\Projects\HotTravel\src\Orchard.Profile\bin\Debug\nunit.mocks.dll
+C:\Projects\HotTravel\src\Orchard.Profile\bin\Debug\pnunit.framework.dll
+C:\Projects\HotTravel\src\Orchard.Profile\bin\Debug\TechTalk.SpecFlow.dll
+C:\Projects\HotTravel\src\Orchard.Profile\bin\Debug\nunit.framework.xml
+C:\Projects\HotTravel\src\Orchard.Profile\obj\Debug\Orchard.Profile.csprojResolveAssemblyReference.cache
+C:\Projects\HotTravel\src\Orchard.Profile\obj\Debug\Orchard.Profile.dll
+C:\Projects\HotTravel\src\Orchard.Profile\obj\Debug\Orchard.Profile.pdb

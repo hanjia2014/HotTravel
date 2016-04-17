@@ -1,0 +1,14 @@
+C:\Projects\HotTravel\src\Tools\Orchard.Tests\bin\Debug\Orchard.Tests.dll
+C:\Projects\HotTravel\src\Tools\Orchard.Tests\bin\Debug\Orchard.Tests.pdb
+C:\Projects\HotTravel\src\Tools\Orchard.Tests\bin\Debug\Moq.dll
+C:\Projects\HotTravel\src\Tools\Orchard.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\HotTravel\src\Tools\Orchard.Tests\bin\Debug\nunit.mocks.dll
+C:\Projects\HotTravel\src\Tools\Orchard.Tests\bin\Debug\Orchard.exe
+C:\Projects\HotTravel\src\Tools\Orchard.Tests\bin\Debug\pnunit.framework.dll
+C:\Projects\HotTravel\src\Tools\Orchard.Tests\bin\Debug\Orchard.pdb
+C:\Projects\HotTravel\src\Tools\Orchard.Tests\bin\Debug\Moq.pdb
+C:\Projects\HotTravel\src\Tools\Orchard.Tests\bin\Debug\Moq.xml
+C:\Projects\HotTravel\src\Tools\Orchard.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\HotTravel\src\Tools\Orchard.Tests\obj\Debug\Orchard.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\HotTravel\src\Tools\Orchard.Tests\obj\Debug\Orchard.Tests.dll
+C:\Projects\HotTravel\src\Tools\Orchard.Tests\obj\Debug\Orchard.Tests.pdb
