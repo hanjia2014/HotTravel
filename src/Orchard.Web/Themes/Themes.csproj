@@ -88,6 +88,57 @@
   <ItemGroup>
     <Content Include="HotTravelTheme\Assets.json" />
     <Content Include="HotTravelTheme\Assets\Styles.less" />
+    <Content Include="HotTravelTheme\Assets\images\blog-1-600x800.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\blog-3-600x800.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\blog-4-600x800.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\blog-5-600x800.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\blog-6-600x800.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\blog-7-600x800.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\blog-placeholder-vertical.png" />
+    <Content Include="HotTravelTheme\Assets\images\destination-1.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destination-2.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destination-3.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destination-4.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destination-5.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destination-6.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-1-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-10-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-11-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-12-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-13-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-14-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-15-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-16-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-17-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-18-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-19-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-2-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-20-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-21-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-22-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-3-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-4-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-5-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-6-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-7-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-8-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\destinations-9-960x540.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\directory-1.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\directory-2.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\directory-3.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\directory-4.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\directory-5.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\directory-6.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\featured-destination-1.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\featured-destination-2.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\featured-destination-3.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\featured-destination-4.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\hero-1.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\image-in-content-1.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\image-in-content-2.jpg" />
+    <Content Include="HotTravelTheme\Assets\images\logo-symbol-complex-colors.png" />
+    <Content Include="HotTravelTheme\Assets\images\logo.png" />
+    <Content Include="HotTravelTheme\Assets\images\sidebar-ad.jpg" />
     <Content Include="HotTravelTheme\Scripts\bootstrap.min.js" />
     <Content Include="HotTravelTheme\Scripts\custom.js" />
     <Content Include="HotTravelTheme\Scripts\jquery1.11.2.min.js" />
@@ -96,6 +147,7 @@
     <Content Include="HotTravelTheme\Styles\font-awesome.min.css" />
     <Content Include="HotTravelTheme\Styles\imports.css" />
     <Content Include="HotTravelTheme\Styles\owl-carousel.css" />
+    <Content Include="HotTravelTheme\ThemeZonePreview.png" />
     <Content Include="HotTravelTheme\Web.config" />
     <Content Include="HotTravelTheme\Scripts\Web.config" />
     <Content Include="HotTravelTheme\Styles\Web.config" />
@@ -225,8 +277,8 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HotTravelTheme\Fonts\fontawesome-webfont.woff2" />
-    <Content Include="HotTravelTheme\Fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="HotTravelTheme\fonts\fontawesome-webfont.woff2" />
+    <Content Include="HotTravelTheme\fonts\glyphicons-halflings-regular.woff" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
