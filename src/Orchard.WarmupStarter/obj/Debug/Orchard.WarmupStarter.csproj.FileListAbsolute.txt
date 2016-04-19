@@ -2,3 +2,4 @@ C:\Projects\HotTravel\src\Orchard.WarmupStarter\bin\Debug\Orchard.WarmupStarter.
 C:\Projects\HotTravel\src\Orchard.WarmupStarter\bin\Debug\Orchard.WarmupStarter.pdb
 C:\Projects\HotTravel\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.dll
 C:\Projects\HotTravel\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.pdb
+C:\Projects\HotTravel\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.csprojResolveAssemblyReference.cache
