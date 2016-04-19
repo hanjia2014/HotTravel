@@ -90,13 +90,12 @@
     <Content Include="HotTravelTheme\Assets\Styles.less" />
     <Content Include="HotTravelTheme\Scripts\bootstrap.min.js" />
     <Content Include="HotTravelTheme\Scripts\custom.js" />
+    <Content Include="HotTravelTheme\Scripts\jquery1.11.2.min.js" />
     <Content Include="HotTravelTheme\Scripts\owl.carousel.min.js" />
     <Content Include="HotTravelTheme\Styles\bootstrap.min.css" />
     <Content Include="HotTravelTheme\Styles\font-awesome.min.css" />
     <Content Include="HotTravelTheme\Styles\imports.css" />
     <Content Include="HotTravelTheme\Styles\owl-carousel.css" />
-    <Content Include="HotTravelTheme\Styles\Styles.css" />
-    <Content Include="HotTravelTheme\Styles\Styles.min.css" />
     <Content Include="HotTravelTheme\Web.config" />
     <Content Include="HotTravelTheme\Scripts\Web.config" />
     <Content Include="HotTravelTheme\Styles\Web.config" />
