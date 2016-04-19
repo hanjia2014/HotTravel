@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -88,6 +88,13 @@
   <ItemGroup>
     <Content Include="HotTravelTheme\Assets.json" />
     <Content Include="HotTravelTheme\Assets\Styles.less" />
+    <Content Include="HotTravelTheme\Scripts\bootstrap.min.js" />
+    <Content Include="HotTravelTheme\Scripts\custom.js" />
+    <Content Include="HotTravelTheme\Scripts\owl.carousel.min.js" />
+    <Content Include="HotTravelTheme\Styles\bootstrap.min.css" />
+    <Content Include="HotTravelTheme\Styles\font-awesome.min.css" />
+    <Content Include="HotTravelTheme\Styles\imports.css" />
+    <Content Include="HotTravelTheme\Styles\owl-carousel.css" />
     <Content Include="HotTravelTheme\Styles\Styles.css" />
     <Content Include="HotTravelTheme\Styles\Styles.min.css" />
     <Content Include="HotTravelTheme\Web.config" />
@@ -97,11 +104,6 @@
     <Content Include="HotTravelTheme\Theme.txt" />
     <Content Include="HotTravelTheme\Theme.png" />
     <Content Include="HotTravelTheme\Placement.info" />
-    <Folder Include="HotTravelTheme\Assets" />
-    <Folder Include="HotTravelTheme\Content" />
-    <Folder Include="HotTravelTheme\Styles" />
-    <Folder Include="HotTravelTheme\Scripts" />
-    <Folder Include="HotTravelTheme\Views" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -222,6 +224,29 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HotTravelTheme\Fonts\fontawesome-webfont.woff2" />
+    <Content Include="HotTravelTheme\Fonts\glyphicons-halflings-regular.woff" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="HotTravelTheme\Views\Pager.Last.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HotTravelTheme\Views\BadgeOfHonor.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HotTravelTheme\Views\Branding.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HotTravelTheme\Views\Layout.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HotTravelTheme\Views\Pager.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HotTravelTheme\Views\Pager.First.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
