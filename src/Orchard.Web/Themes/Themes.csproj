@@ -146,6 +146,7 @@
     <Content Include="HotTravelTheme\Styles\bootstrap.min.css" />
     <Content Include="HotTravelTheme\Styles\font-awesome.min.css" />
     <Content Include="HotTravelTheme\Styles\imports.css" />
+    <Content Include="HotTravelTheme\Styles\navigation.css" />
     <Content Include="HotTravelTheme\Styles\owl-carousel.css" />
     <Content Include="HotTravelTheme\ThemeZonePreview.png" />
     <Content Include="HotTravelTheme\Web.config" />
@@ -299,6 +300,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="HotTravelTheme\Styles\fontawesome-webfont.woff2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HotTravelTheme\Views\Menu.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
