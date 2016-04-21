@@ -4,6 +4,7 @@ using System.Web.Mvc;
 using Orchard.ImageGallery.Models;
 using Orchard.ImageGallery.Models.Plugins;
 using Orchard.Mvc.Html;
+using Orchard.ImageGallery.Helpers;
 
 namespace Orchard.ImageGallery.Helpers {
     public static class ImageGalleryExtensions {
