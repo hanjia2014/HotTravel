@@ -14,6 +14,6 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Alias\bin\System.Web.Razor
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Alias\bin\System.Web.WebPages.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Alias\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Alias\bin\System.Web.WebPages.Razor.xml
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Alias\obj\Debug\Orchard.Alias.csprojResolveAssemblyReference.cache
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Alias\obj\Debug\Orchard.Alias.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Alias\obj\Debug\Orchard.Alias.pdb
-C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Alias\obj\Debug\Orchard.Alias.csprojResolveAssemblyReference.cache

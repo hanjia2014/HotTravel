@@ -20,6 +20,6 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Users\bin\System.Web.WebPa
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Users\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Users\bin\System.Web.WebPages.Razor.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Users\bin\Orchard.Tokens.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Users\obj\Debug\Orchard.Users.csprojResolveAssemblyReference.cache
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Users\obj\Debug\Orchard.Users.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Users\obj\Debug\Orchard.Users.pdb
-C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Users\obj\Debug\Orchard.Users.csprojResolveAssemblyReference.cache

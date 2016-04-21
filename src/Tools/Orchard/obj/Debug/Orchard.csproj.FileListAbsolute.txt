@@ -3,7 +3,6 @@ C:\Projects\HotTravel\src\Tools\Orchard\bin\Debug\Orchard.exe.manifest
 C:\Projects\HotTravel\src\Tools\Orchard\bin\Debug\Orchard.application
 C:\Projects\HotTravel\src\Tools\Orchard\bin\Debug\Orchard.exe
 C:\Projects\HotTravel\src\Tools\Orchard\bin\Debug\Orchard.pdb
-C:\Projects\HotTravel\src\Tools\Orchard\obj\Debug\Orchard.csprojResolveAssemblyReference.cache
 C:\Projects\HotTravel\src\Tools\Orchard\obj\Debug\Orchard.exe.manifest
 C:\Projects\HotTravel\src\Tools\Orchard\obj\Debug\Orchard.application
 C:\Projects\HotTravel\src\Tools\Orchard\obj\Debug\Orchard.exe
