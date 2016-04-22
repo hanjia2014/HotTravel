@@ -22,3 +22,4 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Roles\bin\System.Web.WebPa
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Roles\bin\Orchard.Tokens.pdb
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Roles\obj\Debug\Orchard.Roles.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Roles\obj\Debug\Orchard.Roles.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Roles\obj\Debug\Orchard.Roles.csprojResolveAssemblyReference.cache

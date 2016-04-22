@@ -18,3 +18,4 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Fields\bin\System.Web.WebP
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Fields\bin\System.Web.WebPages.Razor.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Fields\obj\Debug\Orchard.Fields.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Fields\obj\Debug\Orchard.Fields.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Fields\obj\Debug\Orchard.Fields.csprojResolveAssemblyReference.cache

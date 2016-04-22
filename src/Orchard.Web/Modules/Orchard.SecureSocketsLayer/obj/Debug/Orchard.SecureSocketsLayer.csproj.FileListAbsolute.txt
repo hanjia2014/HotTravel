@@ -16,3 +16,4 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\bin\Sys
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\bin\System.Web.WebPages.Razor.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\obj\Debug\Orchard.SecureSocketsLayer.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\obj\Debug\Orchard.SecureSocketsLayer.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\obj\Debug\Orchard.SecureSocketsLayer.csprojResolveAssemblyReference.cache
