@@ -142,6 +142,7 @@
     <Content Include="HotTravelTheme\Scripts\bootstrap.min.js" />
     <Content Include="HotTravelTheme\Scripts\custom.js" />
     <Content Include="HotTravelTheme\Scripts\jquery1.11.2.min.js" />
+    <Content Include="HotTravelTheme\Scripts\navigation.js" />
     <Content Include="HotTravelTheme\Scripts\owl.carousel.min.js" />
     <Content Include="HotTravelTheme\Styles\bootstrap.min.css" />
     <Content Include="HotTravelTheme\Styles\font-awesome.min.css" />
@@ -306,6 +307,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="HotTravelTheme\Views\Fields\MediaLibraryPicker.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HotTravelTheme\Views\MenuItem.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HotTravelTheme\Views\MenuItemLink.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

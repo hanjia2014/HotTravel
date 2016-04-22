@@ -50,8 +50,8 @@
   </Dependency>
   <Dependency>
     <ModuleName>HotTravel.HeaderImageSection</ModuleName>
-    <VirtualPath>~/Modules/HotTravel.HeaderImageSection/HotTravel.HeaderImageSection.csproj</VirtualPath>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.HeaderImageSection/bin/HotTravel.HeaderImageSection.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <References>
       <Reference>
         <Name>Orchard.MediaLibrary</Name>
@@ -1372,11 +1372,6 @@
         <Name>Orchard.MediaLibrary</Name>
         <LoaderName>PrecompiledExtensionLoader</LoaderName>
         <VirtualPath>~/Modules/Orchard.MediaLibrary/bin/Orchard.MediaLibrary.dll</VirtualPath>
-      </Reference>
-      <Reference>
-        <Name>Orchard.Tokens</Name>
-        <LoaderName>PrecompiledExtensionLoader</LoaderName>
-        <VirtualPath>~/Modules/Orchard.Tokens/bin/Orchard.Tokens.dll</VirtualPath>
       </Reference>
     </References>
   </Dependency>
