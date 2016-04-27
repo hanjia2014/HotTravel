@@ -1,10 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
   <Dependency>
-    <ExtensionId>HotTravel.HeaderImageSection</ExtensionId>
+    <ExtensionId>HotTravel.FeaturedDestination</ExtensionId>
     <LoaderName>DynamicExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/HotTravel.HeaderImageSection/HotTravel.HeaderImageSection.csproj</VirtualPath>
-    <Hash>8e4c0af7a602d065</Hash>
+    <VirtualPath>~/Modules/HotTravel.FeaturedDestination/HotTravel.FeaturedDestination.csproj</VirtualPath>
+    <Hash>d77a6c368180bf0a</Hash>
+  </Dependency>
+  <Dependency>
+    <ExtensionId>HotTravel.HeaderImageSection</ExtensionId>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.HeaderImageSection/bin/HotTravel.HeaderImageSection.dll</VirtualPath>
+    <Hash>dbeb6219dbc7e8c3</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>Lucene</ExtensionId>

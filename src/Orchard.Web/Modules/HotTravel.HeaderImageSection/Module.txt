@@ -1,6 +1,6 @@
 ﻿Name: HotTravel.HeaderImageSection
 AntiForgery: enabled
-Author: The Orchard Team
+Author: Han Jia
 Website: http://orchardproject.net
 Version: 1.0
 OrchardVersion: 1.0
