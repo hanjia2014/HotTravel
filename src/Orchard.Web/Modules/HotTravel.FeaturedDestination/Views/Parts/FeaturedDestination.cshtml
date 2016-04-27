@@ -1,14 +1,16 @@
-﻿<article class="card">
-    <a href="@Model.LinkedPage" class="featured-image" style="background-image: url('@Model.ImageUrl')">
-        <div class="featured-img-inner"></div>
-    </a>
-    <div class="card-details">
-        <h4 class="card-title"><a href="destination-parent.html">@Model.Name</a></h4>
-        <div class="meta-details clearfix">
-            <ul class="hierarchy">
-                <li class="symbol"><i class="fa fa-map-marker"></i></li>
-                <li><a href="destination-parent.html">@Model.Location</a></li>
-            </ul>
+﻿<div class="col-md-3 col-sm-6 col-xs-12">
+    <article class="card">
+        <a href="@Model.LinkedPage" class="featured-image" style="background-image: url('@Model.ImageUrl')">
+            <div class="featured-img-inner"></div>
+        </a>
+        <div class="card-details">
+            <h4 class="card-title"><a href="@Model.LinkedPage">@Model.Name</a></h4>
+            <div class="meta-details clearfix">
+                <ul class="hierarchy">
+                    <li class="symbol"><i class="fa fa-map-marker"></i></li>
+                    <li><a href="@Model.LinkedPage">@Model.Location</a></li>
+                </ul>
+            </div>
         </div>
-    </div>
-</article>
+    </article>
+</div>
