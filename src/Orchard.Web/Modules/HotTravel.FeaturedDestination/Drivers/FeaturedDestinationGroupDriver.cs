@@ -4,8 +4,6 @@ using System.Linq;
 using Orchard.ContentPicker.Fields;
 using System.Collections.Generic;
 using HotTravel.FeaturedDestination.Models;
-using Orchard.ContentManagement;
-using Orchard.MediaLibrary.Fields;
 
 namespace HotTravel.FeaturedDestinationGroup.Drivers
 {
@@ -15,7 +13,7 @@ namespace HotTravel.FeaturedDestinationGroup.Drivers
         {
             var itemsField = (ContentPickerField)part.Fields.FirstOrDefault(p => p.Name == "ContentItems");
             var contentItems = itemsField.ContentItems;
-            var featuredDestinations = new List<FeaturedDestinationViewModel>();
+            var featuredDestinations = new List<FeaturedDestinationPart>();
             foreach(var contentItem in contentItems)
             {
                 if(contentItem.ContentType == "FeaturedDestination")
@@ -24,7 +22,7 @@ namespace HotTravel.FeaturedDestinationGroup.Drivers
                     {
                         if(itemPart is FeaturedDestinationPart)
                         {
-                            featuredDestinations.Add(new FeaturedDestinationViewModel(itemPart as FeaturedDestinationPart));
+                            featuredDestinations.Add(itemPart as FeaturedDestinationPart);
                         }
                     }
                 }
@@ -37,18 +35,18 @@ namespace HotTravel.FeaturedDestinationGroup.Drivers
                 ));
         }
 
-        //GET
-        protected override DriverResult Editor(FeaturedDestinationGroupPart part, dynamic shapeHelper)
-        {
-            return ContentShape("Parts_FeaturedDestinationGroup_Edit", () => shapeHelper.EditorTemplate(TemplateName: "Parts/FeaturedDestinationGroup",
-                    Model: part,
-                    Prefix: Prefix));
-        }
-        //POST
-        protected override DriverResult Editor(FeaturedDestinationGroupPart part, IUpdateModel updater, dynamic shapeHelper)
-        {
-            updater.TryUpdateModel(part, Prefix, null, null);
-            return Editor(part, shapeHelper);
-        }
+        ////GET
+        //protected override DriverResult Editor(FeaturedDestinationGroupPart part, dynamic shapeHelper)
+        //{
+        //    return ContentShape("Parts_FeaturedDestinationGroup_Edit", () => shapeHelper.EditorTemplate(TemplateName: "Parts/FeaturedDestinationGroup",
+        //            Model: part,
+        //            Prefix: Prefix));
+        //}
+        ////POST
+        //protected override DriverResult Editor(FeaturedDestinationGroupPart part, IUpdateModel updater, dynamic shapeHelper)
+        //{
+        //    updater.TryUpdateModel(part, Prefix, null, null);
+        //    return Editor(part, shapeHelper);
+        //}
     }
 }

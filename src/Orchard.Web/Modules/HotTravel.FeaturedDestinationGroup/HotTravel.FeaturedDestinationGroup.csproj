@@ -98,10 +98,10 @@
     <Compile Include="Handlers\FeaturedDestinationHandlerGroup.cs" />
     <Compile Include="Migrations.cs" />
     <Compile Include="Models\FeaturedDestinationGroup.cs" />
+    <Compile Include="Models\FeaturedDestinationViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="Views\EditorTemplates\Parts\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Placement.info">
@@ -120,6 +120,13 @@
       <Project>{F301EF7D-F19C-4D83-AA94-CB64F29C037D}</Project>
       <Name>Orchard.ContentPicker</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Orchard.MediaLibrary\Orchard.MediaLibrary.csproj">
+      <Project>{73A7688A-5BD3-4F7E-ADFA-CE36C5A10E3B}</Project>
+      <Name>Orchard.MediaLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\EditorTemplates\Parts\FeaturedDestinationGroup.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

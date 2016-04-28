@@ -4,13 +4,13 @@
     <ExtensionId>HotTravel.FeaturedDestination</ExtensionId>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/HotTravel.FeaturedDestination/bin/HotTravel.FeaturedDestination.dll</VirtualPath>
-    <Hash>dbefeb2b7ad7d523</Hash>
+    <Hash>255be9953d948aac</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>HotTravel.FeaturedDestinationGroup</ExtensionId>
     <LoaderName>DynamicExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/HotTravel.FeaturedDestinationGroup/HotTravel.FeaturedDestinationGroup.csproj</VirtualPath>
-    <Hash>82a626fe972ac203</Hash>
+    <Hash>cb234614e53b0fef</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>HotTravel.HeaderImageSection</ExtensionId>
