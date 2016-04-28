@@ -1,0 +1,16 @@
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\bin\HotTravel.FeaturedDestinationGroup.dll.config
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\bin\HotTravel.FeaturedDestinationGroup.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\bin\HotTravel.FeaturedDestinationGroup.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\bin\System.Web.Mvc.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\bin\System.Web.Mvc.xml
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\obj\Debug\HotTravel.FeaturedDestinationGroup.csprojResolveAssemblyReference.cache
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\obj\Debug\HotTravel.FeaturedDestinationGroup.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\obj\Debug\HotTravel.FeaturedDestinationGroup.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\bin\HotTravel.FeaturedDestination.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\bin\Orchard.ContentPicker.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\bin\Orchard.MediaLibrary.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\bin\Orchard.Tokens.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\bin\HotTravel.FeaturedDestination.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\bin\Orchard.ContentPicker.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\bin\Orchard.MediaLibrary.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\bin\Orchard.Tokens.pdb

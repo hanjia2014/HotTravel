@@ -1,0 +1,327 @@
+2016-04-28 16:49:20,817 [12] Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator - Default - NotImplementedException thrown from IContentPartDriver by HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver [http://localhost:30321/]
+System.NotImplementedException: The method or operation is not implemented.
+   at HotTravel.FeaturedDestination.Models.FeaturedDestinationPart.op_Explicit(ContentItem v)
+   at HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver.Display(FeaturedDestinationGroupPart part, String displayType, Object shapeHelper)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute4[T0,T1,T2,T3,TRet](CallSite site, T0 arg0, T1 arg1, T2 arg2, T3 arg3)
+   at Orchard.ContentManagement.Drivers.ContentPartDriver`1.Orchard.ContentManagement.Drivers.IContentPartDriver.BuildDisplay(BuildDisplayContext context) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\ContentPartDriver.cs:line 29
+   at Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator.<>c__DisplayClass9_0.<BuildDisplay>b__0(IContentPartDriver driver) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\Coordinators\ContentPartDriverCoordinator.cs:line 47
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Projects\HotTravel\src\Orchard\InvokeExtensions.cs:line 17
+2016-04-28 16:51:30,516 [18] Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator - Default - NotImplementedException thrown from IContentPartDriver by HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver [http://localhost:30321/Admin/Contents/List]
+System.NotImplementedException: The method or operation is not implemented.
+   at HotTravel.FeaturedDestination.Models.FeaturedDestinationPart.op_Explicit(ContentItem v)
+   at HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver.Display(FeaturedDestinationGroupPart part, String displayType, Object shapeHelper)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute4[T0,T1,T2,T3,TRet](CallSite site, T0 arg0, T1 arg1, T2 arg2, T3 arg3)
+   at Orchard.ContentManagement.Drivers.ContentPartDriver`1.Orchard.ContentManagement.Drivers.IContentPartDriver.BuildDisplay(BuildDisplayContext context) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\ContentPartDriver.cs:line 29
+   at Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator.<>c__DisplayClass9_0.<BuildDisplay>b__0(IContentPartDriver driver) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\Coordinators\ContentPartDriverCoordinator.cs:line 47
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Projects\HotTravel\src\Orchard\InvokeExtensions.cs:line 17
+2016-04-28 16:51:59,335 [12] Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator - Default - NotImplementedException thrown from IContentPartDriver by HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver [http://localhost:30321/Admin/Orchard.ContentPicker?callback=_contentpicker_1461819119233&1461819119233]
+System.NotImplementedException: The method or operation is not implemented.
+   at HotTravel.FeaturedDestination.Models.FeaturedDestinationPart.op_Explicit(ContentItem v)
+   at HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver.Display(FeaturedDestinationGroupPart part, String displayType, Object shapeHelper)
+   at Orchard.ContentManagement.Drivers.ContentPartDriver`1.Orchard.ContentManagement.Drivers.IContentPartDriver.BuildDisplay(BuildDisplayContext context) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\ContentPartDriver.cs:line 29
+   at Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator.<>c__DisplayClass9_0.<BuildDisplay>b__0(IContentPartDriver driver) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\Coordinators\ContentPartDriverCoordinator.cs:line 47
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Projects\HotTravel\src\Orchard\InvokeExtensions.cs:line 17
+2016-04-28 16:52:04,985 [12] Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator - Default - NotImplementedException thrown from IContentPartDriver by HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver [http://localhost:30321/Admin/Layouts/Element/Update?session=181895ab-3d8b-4dae-a101-587fe5d1fa3e]
+System.NotImplementedException: The method or operation is not implemented.
+   at HotTravel.FeaturedDestination.Models.FeaturedDestinationPart.op_Explicit(ContentItem v)
+   at HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver.Display(FeaturedDestinationGroupPart part, String displayType, Object shapeHelper)
+   at Orchard.ContentManagement.Drivers.ContentPartDriver`1.Orchard.ContentManagement.Drivers.IContentPartDriver.BuildDisplay(BuildDisplayContext context) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\ContentPartDriver.cs:line 29
+   at Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator.<>c__DisplayClass9_0.<BuildDisplay>b__0(IContentPartDriver driver) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\Coordinators\ContentPartDriverCoordinator.cs:line 47
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Projects\HotTravel\src\Orchard\InvokeExtensions.cs:line 17
+2016-04-28 16:52:05,010 [12] Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator - Default - NotImplementedException thrown from IContentPartDriver by HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver [http://localhost:30321/Admin/Layouts/Element/Update?session=181895ab-3d8b-4dae-a101-587fe5d1fa3e]
+System.NotImplementedException: The method or operation is not implemented.
+   at HotTravel.FeaturedDestination.Models.FeaturedDestinationPart.op_Explicit(ContentItem v)
+   at HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver.Display(FeaturedDestinationGroupPart part, String displayType, Object shapeHelper)
+   at Orchard.ContentManagement.Drivers.ContentPartDriver`1.Orchard.ContentManagement.Drivers.IContentPartDriver.BuildDisplay(BuildDisplayContext context) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\ContentPartDriver.cs:line 29
+   at Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator.<>c__DisplayClass9_0.<BuildDisplay>b__0(IContentPartDriver driver) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\Coordinators\ContentPartDriverCoordinator.cs:line 47
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Projects\HotTravel\src\Orchard\InvokeExtensions.cs:line 17
+2016-04-28 16:52:09,387 [18] Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator - Default - NotImplementedException thrown from IContentPartDriver by HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver [http://localhost:30321/Admin/Contents/Edit/9]
+System.NotImplementedException: The method or operation is not implemented.
+   at HotTravel.FeaturedDestination.Models.FeaturedDestinationPart.op_Explicit(ContentItem v)
+   at HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver.Display(FeaturedDestinationGroupPart part, String displayType, Object shapeHelper)
+   at Orchard.ContentManagement.Drivers.ContentPartDriver`1.Orchard.ContentManagement.Drivers.IContentPartDriver.BuildDisplay(BuildDisplayContext context) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\ContentPartDriver.cs:line 29
+   at Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator.<>c__DisplayClass9_0.<BuildDisplay>b__0(IContentPartDriver driver) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\Coordinators\ContentPartDriverCoordinator.cs:line 47
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Projects\HotTravel\src\Orchard\InvokeExtensions.cs:line 17
+2016-04-28 16:52:09,763 [20] Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator - Default - NotImplementedException thrown from IContentPartDriver by HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver [http://localhost:30321/Admin/Contents/Edit/9]
+System.NotImplementedException: The method or operation is not implemented.
+   at HotTravel.FeaturedDestination.Models.FeaturedDestinationPart.op_Explicit(ContentItem v)
+   at HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver.Display(FeaturedDestinationGroupPart part, String displayType, Object shapeHelper)
+   at Orchard.ContentManagement.Drivers.ContentPartDriver`1.Orchard.ContentManagement.Drivers.IContentPartDriver.BuildDisplay(BuildDisplayContext context) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\ContentPartDriver.cs:line 29
+   at Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator.<>c__DisplayClass9_0.<BuildDisplay>b__0(IContentPartDriver driver) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\Coordinators\ContentPartDriverCoordinator.cs:line 47
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Projects\HotTravel\src\Orchard\InvokeExtensions.cs:line 17
+2016-04-28 16:52:19,479 [18] Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator - Default - NotImplementedException thrown from IContentPartDriver by HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver [http://localhost:30321/]
+System.NotImplementedException: The method or operation is not implemented.
+   at HotTravel.FeaturedDestination.Models.FeaturedDestinationPart.op_Explicit(ContentItem v)
+   at HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver.Display(FeaturedDestinationGroupPart part, String displayType, Object shapeHelper)
+   at Orchard.ContentManagement.Drivers.ContentPartDriver`1.Orchard.ContentManagement.Drivers.IContentPartDriver.BuildDisplay(BuildDisplayContext context) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\ContentPartDriver.cs:line 29
+   at Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator.<>c__DisplayClass9_0.<BuildDisplay>b__0(IContentPartDriver driver) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\Coordinators\ContentPartDriverCoordinator.cs:line 47
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Projects\HotTravel\src\Orchard\InvokeExtensions.cs:line 17
+2016-04-28 16:53:08,034 [13] Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator - Default - NotImplementedException thrown from IContentPartDriver by HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver [http://localhost:30321/]
+System.NotImplementedException: The method or operation is not implemented.
+   at HotTravel.FeaturedDestination.Models.FeaturedDestinationPart.op_Explicit(ContentItem v)
+   at HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver.Display(FeaturedDestinationGroupPart part, String displayType, Object shapeHelper)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute4[T0,T1,T2,T3,TRet](CallSite site, T0 arg0, T1 arg1, T2 arg2, T3 arg3)
+   at Orchard.ContentManagement.Drivers.ContentPartDriver`1.Orchard.ContentManagement.Drivers.IContentPartDriver.BuildDisplay(BuildDisplayContext context) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\ContentPartDriver.cs:line 29
+   at Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator.<>c__DisplayClass9_0.<BuildDisplay>b__0(IContentPartDriver driver) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\Coordinators\ContentPartDriverCoordinator.cs:line 47
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Projects\HotTravel\src\Orchard\InvokeExtensions.cs:line 17
+2016-04-28 16:54:18,503 [10] Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator - Default - NotImplementedException thrown from IContentPartDriver by HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver [http://localhost:30321/]
+System.NotImplementedException: The method or operation is not implemented.
+   at HotTravel.FeaturedDestination.Models.FeaturedDestinationPart.op_Explicit(ContentItem v)
+   at HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver.Display(FeaturedDestinationGroupPart part, String displayType, Object shapeHelper)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute4[T0,T1,T2,T3,TRet](CallSite site, T0 arg0, T1 arg1, T2 arg2, T3 arg3)
+   at Orchard.ContentManagement.Drivers.ContentPartDriver`1.Orchard.ContentManagement.Drivers.IContentPartDriver.BuildDisplay(BuildDisplayContext context) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\ContentPartDriver.cs:line 29
+   at Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator.<>c__DisplayClass9_0.<BuildDisplay>b__0(IContentPartDriver driver) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\Coordinators\ContentPartDriverCoordinator.cs:line 47
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Projects\HotTravel\src\Orchard\InvokeExtensions.cs:line 17
+2016-04-28 16:55:50,529 [10] Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator - Default - NotImplementedException thrown from IContentPartDriver by HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver [http://localhost:30321/]
+System.NotImplementedException: The method or operation is not implemented.
+   at HotTravel.FeaturedDestination.Models.FeaturedDestinationPart.op_Explicit(ContentItem v)
+   at HotTravel.FeaturedDestinationGroup.Drivers.FeaturedDestinationDriver.Display(FeaturedDestinationGroupPart part, String displayType, Object shapeHelper)
+   at Orchard.ContentManagement.Drivers.ContentPartDriver`1.Orchard.ContentManagement.Drivers.IContentPartDriver.BuildDisplay(BuildDisplayContext context) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\ContentPartDriver.cs:line 29
+   at Orchard.ContentManagement.Drivers.Coordinators.ContentPartDriverCoordinator.<>c__DisplayClass9_0.<BuildDisplay>b__0(IContentPartDriver driver) in C:\Projects\HotTravel\src\Orchard\ContentManagement\Drivers\Coordinators\ContentPartDriverCoordinator.cs:line 47
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Projects\HotTravel\src\Orchard\InvokeExtensions.cs:line 17
+2016-04-28 17:15:20,888 [11] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:30321/]
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Web.HttpCompileException: c:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.FeaturedDestinationGroup\Views\Parts\FeaturedDestinationGroup.cshtml(15): error CS0103: The name 'item' does not exist in the current context
+   at System.Web.Compilation.AssemblyBuilder.Compile()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model)
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.Render(ShapeDescriptor shapeDescriptor, DisplayContext displayContext, HarvestShapeInfo harvestShapeInfo, HarvestShapeHit harvestShapeHit) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 151
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.<>c__DisplayClass20_7.<Discover>b__14(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 133
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 203
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 99
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at Orchard.Core.Shapes.CoreShapes.ContentZone(Object Display, Object Shape, TextWriter Output) in C:\Projects\HotTravel\src\Orchard.Web\Core\Shapes\CoreShapes.cs:line 303
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at Orchard.DisplayManagement.Descriptors.ShapeAttributeStrategy.ShapeAttributeBindingStrategy.PerformInvoke(DisplayContext displayContext, MethodInfo methodInfo, Object serviceInstance) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAttributeStrategy\ShapeAttributeBindingStrategy.cs:line 64
+   at Orchard.DisplayManagement.Descriptors.ShapeAttributeStrategy.ShapeAttributeBindingStrategy.<>c__DisplayClass5_0.<CreateDelegate>b__0(DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAttributeStrategy\ShapeAttributeBindingStrategy.cs:line 55
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 203
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 99
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at ASP._Page_Core_Contents_Views_Content_cshtml.Execute() in c:\Projects\HotTravel\src\Orchard.Web\Core\Contents\Views\Content.cshtml:line 23
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model)
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.Render(ShapeDescriptor shapeDescriptor, DisplayContext displayContext, HarvestShapeInfo harvestShapeInfo, HarvestShapeHit harvestShapeHit) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 151
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.<>c__DisplayClass20_7.<Discover>b__14(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 133
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 203
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 99
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_Modules_Orchard_Layouts_Views_Elements_ContentItem_cshtml.Execute() in c:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Layouts\Views\Elements\ContentItem.cshtml:line 7
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model)
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.Render(ShapeDescriptor shapeDescriptor, DisplayContext displayContext, HarvestShapeInfo harvestShapeInfo, HarvestShapeHit harvestShapeHit) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 151
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.<>c__DisplayClass20_7.<Discover>b__14(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 133
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 203
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 99
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at ASP._Page_Modules_Orchard_Layouts_Views_Elements_Column_cshtml.Execute() in c:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Layouts\Views\Elements\Column.cshtml:line 17
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model)
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.Render(ShapeDescriptor shapeDescriptor, DisplayContext displayContext, HarvestShapeInfo harvestShapeInfo, HarvestShapeHit harvestShapeHit) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 151
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.<>c__DisplayClass20_7.<Discover>b__14(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 133
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 203
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 99
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at Orchard.Mvc.ViewEngines.Razor.WebViewPage`1.DisplayChildren(Object shape) in C:\Projects\HotTravel\src\Orchard\Mvc\ViewEngines\Razor\WebViewPage.cs:line 177
+   at ASP._Page_Modules_Orchard_Layouts_Views_Elements_Row_cshtml.Execute() in c:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Layouts\Views\Elements\Row.cshtml:line 8
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model)
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.Render(ShapeDescriptor shapeDescriptor, DisplayContext displayContext, HarvestShapeInfo harvestShapeInfo, HarvestShapeHit harvestShapeHit) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 151
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.<>c__DisplayClass20_7.<Discover>b__14(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 133
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 203
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 99
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at Orchard.Mvc.ViewEngines.Razor.WebViewPage`1.DisplayChildren(Object shape) in C:\Projects\HotTravel\src\Orchard\Mvc\ViewEngines\Razor\WebViewPage.cs:line 177
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_Modules_Orchard_Layouts_Views_Elements_Grid_cshtml.Execute() in c:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Layouts\Views\Elements\Grid.cshtml:line 7
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model)
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.Render(ShapeDescriptor shapeDescriptor, DisplayContext displayContext, HarvestShapeInfo harvestShapeInfo, HarvestShapeHit harvestShapeHit) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 151
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.<>c__DisplayClass20_7.<Discover>b__14(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 133
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 203
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 99
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at Orchard.Mvc.ViewEngines.Razor.WebViewPage`1.DisplayChildren(Object shape) in C:\Projects\HotTravel\src\Orchard\Mvc\ViewEngines\Razor\WebViewPage.cs:line 177
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_Modules_Orchard_Layouts_Views_Elements_Canvas_cshtml.Execute() in c:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Layouts\Views\Elements\Canvas.cshtml:line 13
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model)
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.Render(ShapeDescriptor shapeDescriptor, DisplayContext displayContext, HarvestShapeInfo harvestShapeInfo, HarvestShapeHit harvestShapeHit) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 151
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.<>c__DisplayClass20_7.<Discover>b__14(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 133
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 203
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 99
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Orchard.Mvc.ViewEngines.Razor.WebViewPage`1.DisplayChildren(Object shape) in C:\Projects\HotTravel\src\Orchard\Mvc\ViewEngines\Razor\WebViewPage.cs:line 177
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_Modules_Orchard_Layouts_Views_LayoutRoot_cshtml.Execute() in c:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Layouts\Views\LayoutRoot.cshtml:line 1
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model)
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.Render(ShapeDescriptor shapeDescriptor, DisplayContext displayContext, HarvestShapeInfo harvestShapeInfo, HarvestShapeHit harvestShapeHit) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 151
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.<>c__DisplayClass20_7.<Discover>b__14(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 133
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 203
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 99
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_Modules_Orchard_Layouts_Views_Parts_Layout_cshtml.Execute() in c:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Layouts\Views\Parts.Layout.cshtml:line 2
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model)
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.Render(ShapeDescriptor shapeDescriptor, DisplayContext displayContext, HarvestShapeInfo harvestShapeInfo, HarvestShapeHit harvestShapeHit) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 151
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.<>c__DisplayClass20_7.<Discover>b__14(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 133
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 203
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 99
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at Orchard.Core.Shapes.CoreShapes.ContentZone(Object Display, Object Shape, TextWriter Output) in C:\Projects\HotTravel\src\Orchard.Web\Core\Shapes\CoreShapes.cs:line 303
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at Orchard.DisplayManagement.Descriptors.ShapeAttributeStrategy.ShapeAttributeBindingStrategy.PerformInvoke(DisplayContext displayContext, MethodInfo methodInfo, Object serviceInstance) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAttributeStrategy\ShapeAttributeBindingStrategy.cs:line 64
+   at Orchard.DisplayManagement.Descriptors.ShapeAttributeStrategy.ShapeAttributeBindingStrategy.<>c__DisplayClass5_0.<CreateDelegate>b__0(DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAttributeStrategy\ShapeAttributeBindingStrategy.cs:line 55
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 203
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 99
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_Core_Contents_Views_Content_cshtml.Execute() in c:\Projects\HotTravel\src\Orchard.Web\Core\Contents\Views\Content.cshtml:line 23
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model)
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.Render(ShapeDescriptor shapeDescriptor, DisplayContext displayContext, HarvestShapeInfo harvestShapeInfo, HarvestShapeHit harvestShapeHit) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 151
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.<>c__DisplayClass20_7.<Discover>b__14(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 133
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 203
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 99
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Projects\HotTravel\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_Core_Contents_Views_Item_Display_cshtml.Execute() in c:\Projects\HotTravel\src\Orchard.Web\Core\Contents\Views\Item\Display.cshtml:line 6
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Orchard.Mvc.ViewEngines.ThemeAwareness.LayoutAwareViewEngine.<>c__DisplayClass9_0.<FindView>b__0(ViewContext viewContext, TextWriter writer, IViewDataContainer viewDataContainer) in C:\Projects\HotTravel\src\Orchard\Mvc\ViewEngines\ThemeAwareness\LayoutAwareViewEngine.cs:line 59
+   at Orchard.Mvc.ViewEngines.ThemeAwareness.LayoutAwareViewEngine.LayoutView.Render(ViewContext viewContext, TextWriter writer) in C:\Projects\HotTravel\src\Orchard\Mvc\ViewEngines\ThemeAwareness\LayoutAwareViewEngine.cs:line 90
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)

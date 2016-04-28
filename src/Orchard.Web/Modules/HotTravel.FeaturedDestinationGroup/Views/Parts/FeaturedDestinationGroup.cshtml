@@ -1,0 +1,20 @@
+﻿<section class="featured-destinations">
+    <div class="container">
+        <div class="cards overlap">
+
+            <!-- Section Title -->
+            <div class="title-row">
+                <h3 class="title-entry">Featured Destinations</h3>
+                <a href="destinations-list.html" class="btn btn-primary btn-xs">Find More &nbsp; <i class="fa fa-angle-right"></i></a>
+            </div>
+
+            <!-- Cards Row -->
+            <div class="row">
+            @foreach(var destination in Model.FeaturedDestinations)
+            {
+                @Display(destination)
+            }
+            </div> <!-- /.row -->
+        </div>
+    </div>
+</section>
