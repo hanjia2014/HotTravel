@@ -18,7 +18,7 @@ namespace HotTravel.FeaturedDestinationGroup
 			);
 
             ContentDefinitionManager.AlterPartDefinition(typeof(FeaturedDestinationGroupPart).Name, cfg => cfg.Attachable().WithField("ContentItems", f => f
-            .OfType("ContentPickerField")
+            .OfType("ContentPickerField").WithSetting("ContentPickerFieldSettings.Multiple", "True")
             .WithDisplayName("Content Items")));
 
             return 1;

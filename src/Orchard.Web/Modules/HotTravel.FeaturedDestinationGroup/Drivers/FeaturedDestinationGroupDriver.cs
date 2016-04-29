@@ -40,7 +40,7 @@ namespace HotTravel.FeaturedDestinationGroup.Drivers
             //destinations.ToList().ForEach(p => featuredDestinations.Add(new FeaturedDestinationViewModel(p)));
             
             return ContentShape("Parts_FeaturedDestinationGroup", () => shapeHelper.Parts_FeaturedDestinationGroup(
-                Name: part.Title,
+                Title: part.Title,
                 LinkedPage: part.LinkedPage,
                 FeaturedDestinations: featuredDestinations
                 ));
