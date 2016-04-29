@@ -5,12 +5,17 @@ using Orchard.ContentPicker.Fields;
 using System.Collections.Generic;
 using HotTravel.FeaturedDestination.Models;
 using Orchard.ContentManagement;
-using Orchard.MediaLibrary.Fields;
+
 
 namespace HotTravel.FeaturedDestinationGroup.Drivers
 {
     public class FeaturedDestinationDriver : ContentPartDriver<FeaturedDestinationGroupPart>
     {
+        private IContentManager _contentManager;
+        public FeaturedDestinationDriver(IContentManager contentManager)
+        {
+            _contentManager = contentManager;
+        }
         protected override DriverResult Display(FeaturedDestinationGroupPart part, string displayType, dynamic shapeHelper)
         {
             var itemsField = (ContentPickerField)part.Fields.FirstOrDefault(p => p.Name == "ContentItems");
@@ -29,6 +34,10 @@ namespace HotTravel.FeaturedDestinationGroup.Drivers
                     }
                 }
             }
+
+            //var destinations = _contentManager.Query<FeaturedDestinationPart, FeaturedDestinationPartRecord>().List();
+            //featuredDestinations = new List<FeaturedDestinationViewModel>();
+            //destinations.ToList().ForEach(p => featuredDestinations.Add(new FeaturedDestinationViewModel(p)));
             
             return ContentShape("Parts_FeaturedDestinationGroup", () => shapeHelper.Parts_FeaturedDestinationGroup(
                 Name: part.Title,
