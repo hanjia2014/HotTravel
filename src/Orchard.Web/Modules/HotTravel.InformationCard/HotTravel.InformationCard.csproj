@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -119,9 +119,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Drivers\InformationCardDriver.cs" />
+    <Compile Include="Drivers\InformationCardGroupDriver.cs" />
+    <Compile Include="Handlers\InformationCardGroupHandler.cs" />
     <Compile Include="Handlers\InformationCardHandler.cs" />
     <Compile Include="Migrations.cs" />
     <Compile Include="Models\InformationCard.cs" />
+    <Compile Include="Models\InformationCardGroup.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
@@ -137,6 +140,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\EditorTemplates\Parts\InformationCard.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Orchard.ContentPicker\Orchard.ContentPicker.csproj">
+      <Project>{F301EF7D-F19C-4D83-AA94-CB64F29C037D}</Project>
+      <Name>Orchard.ContentPicker</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -3,7 +3,6 @@ using Orchard.Data.Migration;
 using Orchard.ContentManagement.MetaData;
 using HotTravel.FeaturedDestinationGroup.Models;
 using Orchard.Core.Contents.Extensions;
-using Orchard.Core.Containers.Models;
 
 namespace HotTravel.FeaturedDestinationGroup
 {

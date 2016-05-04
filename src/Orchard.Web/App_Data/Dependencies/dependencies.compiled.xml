@@ -8,15 +8,21 @@
   </Dependency>
   <Dependency>
     <ExtensionId>HotTravel.FeaturedDestinationGroup</ExtensionId>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/HotTravel.FeaturedDestinationGroup/HotTravel.FeaturedDestinationGroup.csproj</VirtualPath>
-    <Hash>cb234614e53b0fef</Hash>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.FeaturedDestinationGroup/bin/HotTravel.FeaturedDestinationGroup.dll</VirtualPath>
+    <Hash>6ef4ceb905ba17bc</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>HotTravel.HeaderImageSection</ExtensionId>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/HotTravel.HeaderImageSection/bin/HotTravel.HeaderImageSection.dll</VirtualPath>
     <Hash>dbeb6219dbc7e8c3</Hash>
+  </Dependency>
+  <Dependency>
+    <ExtensionId>HotTravel.InformationCard</ExtensionId>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.InformationCard/HotTravel.InformationCard.csproj</VirtualPath>
+    <Hash>82f625dd4c6cb5d2</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>Lucene</ExtensionId>

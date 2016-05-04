@@ -17,3 +17,5 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCard\bin\Syst
 C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCard\obj\Debug\HotTravel.InformationCard.csprojResolveAssemblyReference.cache
 C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCard\obj\Debug\HotTravel.InformationCard.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCard\obj\Debug\HotTravel.InformationCard.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCard\bin\Orchard.ContentPicker.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCard\bin\Orchard.ContentPicker.pdb
