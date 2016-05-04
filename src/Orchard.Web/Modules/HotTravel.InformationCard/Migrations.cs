@@ -18,8 +18,18 @@ namespace HotTravel.InformationCard
 				.Column("Location", DbType.String)
 				.Column("LinkedPage", DbType.String)
 			);
-
             ContentDefinitionManager.AlterPartDefinition(typeof(InformationCardPart).Name, cfg => cfg.Attachable());
+
+            // Creating table InformationCardGroupPartRecord
+            SchemaBuilder.CreateTable("InformationCardGroupPartRecord", table => table
+				.ContentPartRecord()
+				.Column("HeaderVisible", DbType.Boolean)
+				.Column("Title", DbType.String)
+				.Column("LinkedPage", DbType.String)
+			);
+            ContentDefinitionManager.AlterPartDefinition(typeof(InformationCardGroupPart).Name, cfg => cfg.Attachable().WithField("ContentItems", f => f
+            .OfType("ContentPickerField").WithSetting("ContentPickerFieldSettings.Multiple", "True")
+            .WithDisplayName("Content Items")));
 
             return 1;
         }
