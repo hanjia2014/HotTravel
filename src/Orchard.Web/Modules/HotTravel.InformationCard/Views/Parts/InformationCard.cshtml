@@ -1,4 +1,8 @@
-﻿<div class="col-sm-6 col-lg-4">
+﻿@{ 
+    var widthClass = @Model.IsWider ? "col-sm-12" : "col-sm-6";
+    widthClass = widthClass + " col-lg-4";
+}
+<div class="@widthClass">
     <a href="@Model.LinkedPage" class="page-box-link">
         <article class="page-box">
             <h3 class="entry-title">@Model.Title</h3>
