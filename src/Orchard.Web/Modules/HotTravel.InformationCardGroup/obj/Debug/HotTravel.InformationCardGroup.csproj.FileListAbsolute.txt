@@ -1,0 +1,12 @@
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\obj\Debug\HotTravel.InformationCardGroup.csprojResolveAssemblyReference.cache
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\bin\HotTravel.InformationCardGroup.dll.config
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\bin\HotTravel.InformationCardGroup.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\bin\HotTravel.InformationCardGroup.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\bin\HotTravel.InformationCard.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\bin\Orchard.ContentPicker.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\bin\System.Web.Mvc.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\bin\HotTravel.InformationCard.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\bin\Orchard.ContentPicker.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\bin\System.Web.Mvc.xml
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\obj\Debug\HotTravel.InformationCardGroup.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\obj\Debug\HotTravel.InformationCardGroup.pdb

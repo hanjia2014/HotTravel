@@ -1,7 +1,7 @@
 ﻿using Orchard.ContentManagement;
 using Orchard.ContentManagement.Records;
 
-namespace HotTravel.InformationCard.Models
+namespace HotTravel.InformationCardGroup.Models
 {
     public class InformationCardGroupPartRecord : ContentPartRecord
     {

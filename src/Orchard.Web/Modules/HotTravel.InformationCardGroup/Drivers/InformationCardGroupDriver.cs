@@ -1,11 +1,12 @@
 ﻿using HotTravel.InformationCard.Models;
+using HotTravel.InformationCardGroup.Models;
 using Orchard.ContentManagement;
 using Orchard.ContentManagement.Drivers;
 using Orchard.ContentPicker.Fields;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace HotTravel.InformationCard.Drivers
+namespace HotTravel.InformationCardGroup.Drivers
 {
     public class InformationCardGroupDriver : ContentPartDriver<InformationCardGroupPart>
     {
