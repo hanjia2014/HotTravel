@@ -9,3 +9,14 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\SysCache\bin\NHibernate.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\SysCache\obj\Debug\SysCache.csprojResolveAssemblyReference.cache
 C:\Projects\HotTravel\src\Orchard.Web\Modules\SysCache\obj\Debug\SysCache.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\SysCache\obj\Debug\SysCache.pdb
+C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\SysCache\bin\SysCache.dll.config
+C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\SysCache\bin\SysCache.dll
+C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\SysCache\bin\SysCache.pdb
+C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\SysCache\bin\Iesi.Collections.dll
+C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\SysCache\bin\NHibernate.Caches.SysCache2.dll
+C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\SysCache\bin\NHibernate.dll
+C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\SysCache\bin\Iesi.Collections.xml
+C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\SysCache\bin\NHibernate.xml
+C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\SysCache\obj\Debug\SysCache.csprojResolveAssemblyReference.cache
+C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\SysCache\obj\Debug\SysCache.dll
+C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\SysCache\obj\Debug\SysCache.pdb

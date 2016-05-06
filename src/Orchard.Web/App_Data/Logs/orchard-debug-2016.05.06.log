@@ -1,0 +1,62 @@
+2016-05-06 15:32:16,674 [11] Orchard.Data.Migration.DataMigrationManager - Default - ERROR Error while running migration version 0 for HotTravel.InformationCardGroup.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Data.SqlServerCe.SqlCeException: The specified table already exists. [ HotTravel_InformationCardGroup_InformationCardGroupPartRecord ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommandText(IntPtr& pCursor, Boolean& isBaseTableCursor)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at Orchard.Data.Migration.Interpreters.DefaultDataMigrationInterpreter.RunPendingStatements() in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Interpreters\DefaultDataMigrationInterpreter.cs:line 380
+   at Orchard.Data.Migration.Interpreters.DefaultDataMigrationInterpreter.Visit(CreateTableCommand command) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Interpreters\DefaultDataMigrationInterpreter.cs:line 91
+   at Orchard.Data.Migration.Interpreters.AbstractDataMigrationInterpreter.Visit(ISchemaBuilderCommand command) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Interpreters\AbstractDataMigrationInterpreter.cs:line 14
+   at Orchard.Data.Migration.Schema.SchemaBuilder.Run(ISchemaBuilderCommand command) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Schema\SchemaBuilder.cs:line 84
+   at Orchard.Data.Migration.Schema.SchemaBuilder.CreateTable(String name, Action`1 table) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Schema\SchemaBuilder.cs:line 50
+   at HotTravel.InformationCardGroup.Migrations.Create() in c:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\Migrations.cs:line 21
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at Orchard.Data.Migration.DataMigrationManager.Update(String feature) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\DataMigrationManager.cs:line 115
+2016-05-06 15:32:16,818 [11] Orchard.Exceptions.DefaultExceptionPolicy - Default - ERROR An unexpected exception was caught
+Orchard.OrchardException: Error while running migration version 0 for HotTravel.InformationCardGroup. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Data.SqlServerCe.SqlCeException: The specified table already exists. [ HotTravel_InformationCardGroup_InformationCardGroupPartRecord ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommandText(IntPtr& pCursor, Boolean& isBaseTableCursor)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at Orchard.Data.Migration.Interpreters.DefaultDataMigrationInterpreter.RunPendingStatements() in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Interpreters\DefaultDataMigrationInterpreter.cs:line 380
+   at Orchard.Data.Migration.Interpreters.DefaultDataMigrationInterpreter.Visit(CreateTableCommand command) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Interpreters\DefaultDataMigrationInterpreter.cs:line 91
+   at Orchard.Data.Migration.Interpreters.AbstractDataMigrationInterpreter.Visit(ISchemaBuilderCommand command) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Interpreters\AbstractDataMigrationInterpreter.cs:line 14
+   at Orchard.Data.Migration.Schema.SchemaBuilder.Run(ISchemaBuilderCommand command) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Schema\SchemaBuilder.cs:line 84
+   at Orchard.Data.Migration.Schema.SchemaBuilder.CreateTable(String name, Action`1 table) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Schema\SchemaBuilder.cs:line 50
+   at HotTravel.InformationCardGroup.Migrations.Create() in c:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\Migrations.cs:line 21
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at Orchard.Data.Migration.DataMigrationManager.Update(String feature) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\DataMigrationManager.cs:line 115
+   --- End of inner exception stack trace ---
+   at Orchard.Data.Migration.DataMigrationManager.Update(String feature) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\DataMigrationManager.cs:line 152
+   at Orchard.Data.Migration.DataMigrationCoordinator.Installing(Feature feature) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\DataMigrationCoordinator.cs:line 26
+   at Orchard.Events.DelegateHelper.<>c__DisplayClass14_0`2.<BuildAction>b__0(Object target, Object[] p) in C:\Projects\HotTravel_backup\src\Orchard\Events\DelegateHelper.cs:line 116
+   at Orchard.Events.DefaultOrchardEventBus.TryInvokeMethod(IEventHandler eventHandler, Type interfaceType, String messageName, String interfaceName, String methodName, IDictionary`2 arguments, IEnumerable& returnValue) in C:\Projects\HotTravel_backup\src\Orchard\Events\DefaultOrchardEventBus.cs:line 84
+   at Orchard.Events.DefaultOrchardEventBus.TryInvoke(IEventHandler eventHandler, String messageName, String interfaceName, String methodName, IDictionary`2 arguments, IEnumerable& returnValue) in C:\Projects\HotTravel_backup\src\Orchard\Events\DefaultOrchardEventBus.cs:line 70
+   at Orchard.Events.DefaultOrchardEventBus.TryNotifyHandler(IEventHandler eventHandler, String messageName, String interfaceName, String methodName, IDictionary`2 eventData, IEnumerable& returnValue) in C:\Projects\HotTravel_backup\src\Orchard\Events\DefaultOrchardEventBus.cs:line 53
+2016-05-06 15:32:17,860 [11] Orchard.Data.Migration.DataMigrationManager - Default - ERROR Error while running migration version 0 for HotTravel.InformationCardGroup.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Data.SqlServerCe.SqlCeException: The specified table already exists. [ HotTravel_InformationCardGroup_InformationCardGroupPartRecord ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommandText(IntPtr& pCursor, Boolean& isBaseTableCursor)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at Orchard.Data.Migration.Interpreters.DefaultDataMigrationInterpreter.RunPendingStatements() in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Interpreters\DefaultDataMigrationInterpreter.cs:line 380
+   at Orchard.Data.Migration.Interpreters.DefaultDataMigrationInterpreter.Visit(CreateTableCommand command) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Interpreters\DefaultDataMigrationInterpreter.cs:line 91
+   at Orchard.Data.Migration.Interpreters.AbstractDataMigrationInterpreter.Visit(ISchemaBuilderCommand command) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Interpreters\AbstractDataMigrationInterpreter.cs:line 14
+   at Orchard.Data.Migration.Schema.SchemaBuilder.Run(ISchemaBuilderCommand command) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Schema\SchemaBuilder.cs:line 84
+   at Orchard.Data.Migration.Schema.SchemaBuilder.CreateTable(String name, Action`1 table) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\Schema\SchemaBuilder.cs:line 50
+   at HotTravel.InformationCardGroup.Migrations.Create() in c:\Projects\HotTravel\src\Orchard.Web\Modules\HotTravel.InformationCardGroup\Migrations.cs:line 21
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at Orchard.Data.Migration.DataMigrationManager.Update(String feature) in C:\Projects\HotTravel_backup\src\Orchard\Data\Migration\DataMigrationManager.cs:line 115
+2016-05-06 15:32:17,983 [11] Orchard.Data.Migration.AutomaticDataMigrations - Default - ERROR Could not run migrations automatically on HotTravel.InformationCardGroup
