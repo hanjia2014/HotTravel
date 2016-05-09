@@ -56,8 +56,8 @@
   </Dependency>
   <Dependency>
     <ModuleName>HotTravel.FeaturedDestination</ModuleName>
-    <VirtualPath>~/Modules/HotTravel.FeaturedDestination/HotTravel.FeaturedDestination.csproj</VirtualPath>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.FeaturedDestination/bin/HotTravel.FeaturedDestination.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <References>
       <Reference>
         <Name>Orchard.ContentPicker</Name>
@@ -78,13 +78,13 @@
   </Dependency>
   <Dependency>
     <ModuleName>HotTravel.FeaturedDestinationGroup</ModuleName>
-    <VirtualPath>~/Modules/HotTravel.FeaturedDestinationGroup/HotTravel.FeaturedDestinationGroup.csproj</VirtualPath>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.FeaturedDestinationGroup/bin/HotTravel.FeaturedDestinationGroup.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <References>
       <Reference>
         <Name>HotTravel.FeaturedDestination</Name>
-        <LoaderName>DynamicExtensionLoader</LoaderName>
-        <VirtualPath>~/Modules/HotTravel.FeaturedDestination/HotTravel.FeaturedDestination.csproj</VirtualPath>
+        <LoaderName>PrecompiledExtensionLoader</LoaderName>
+        <VirtualPath>~/Modules/HotTravel.FeaturedDestination/bin/HotTravel.FeaturedDestination.dll</VirtualPath>
       </Reference>
       <Reference>
         <Name>Orchard.ContentPicker</Name>
@@ -105,8 +105,8 @@
   </Dependency>
   <Dependency>
     <ModuleName>HotTravel.HeaderImageSection</ModuleName>
-    <VirtualPath>~/Modules/HotTravel.HeaderImageSection/HotTravel.HeaderImageSection.csproj</VirtualPath>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.HeaderImageSection/bin/HotTravel.HeaderImageSection.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <References>
       <Reference>
         <Name>Orchard.MediaLibrary</Name>
@@ -122,8 +122,8 @@
   </Dependency>
   <Dependency>
     <ModuleName>HotTravel.InformationCard</ModuleName>
-    <VirtualPath>~/Modules/HotTravel.InformationCard/HotTravel.InformationCard.csproj</VirtualPath>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.InformationCard/bin/HotTravel.InformationCard.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <References>
       <Reference>
         <Name>Orchard.ContentPicker</Name>
@@ -134,13 +134,13 @@
   </Dependency>
   <Dependency>
     <ModuleName>HotTravel.InformationCardGroup</ModuleName>
-    <VirtualPath>~/Modules/HotTravel.InformationCardGroup/HotTravel.InformationCardGroup.csproj</VirtualPath>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.InformationCardGroup/bin/HotTravel.InformationCardGroup.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <References>
       <Reference>
         <Name>HotTravel.InformationCard</Name>
-        <LoaderName>DynamicExtensionLoader</LoaderName>
-        <VirtualPath>~/Modules/HotTravel.InformationCard/HotTravel.InformationCard.csproj</VirtualPath>
+        <LoaderName>PrecompiledExtensionLoader</LoaderName>
+        <VirtualPath>~/Modules/HotTravel.InformationCard/bin/HotTravel.InformationCard.dll</VirtualPath>
       </Reference>
       <Reference>
         <Name>Orchard.ContentPicker</Name>

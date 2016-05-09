@@ -2,33 +2,33 @@
 <Dependencies>
   <Dependency>
     <ExtensionId>HotTravel.FeaturedDestination</ExtensionId>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/HotTravel.FeaturedDestination/HotTravel.FeaturedDestination.csproj</VirtualPath>
-    <Hash>20e6a168f48f5496</Hash>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.FeaturedDestination/bin/HotTravel.FeaturedDestination.dll</VirtualPath>
+    <Hash>255c09dca9e490af</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>HotTravel.FeaturedDestinationGroup</ExtensionId>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/HotTravel.FeaturedDestinationGroup/HotTravel.FeaturedDestinationGroup.csproj</VirtualPath>
-    <Hash>cb160701f30423e2</Hash>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.FeaturedDestinationGroup/bin/HotTravel.FeaturedDestinationGroup.dll</VirtualPath>
+    <Hash>6ef4f26307279485</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>HotTravel.HeaderImageSection</ExtensionId>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/HotTravel.HeaderImageSection/HotTravel.HeaderImageSection.csproj</VirtualPath>
-    <Hash>8e4c2e5c70eefdd9</Hash>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.HeaderImageSection/bin/HotTravel.HeaderImageSection.dll</VirtualPath>
+    <Hash>dbeb7be5a5087de5</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>HotTravel.InformationCard</ExtensionId>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/HotTravel.InformationCard/HotTravel.InformationCard.csproj</VirtualPath>
-    <Hash>a87be67b060a9aaf</Hash>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.InformationCard/bin/HotTravel.InformationCard.dll</VirtualPath>
+    <Hash>9291b6057dbe6501</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>HotTravel.InformationCardGroup</ExtensionId>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/HotTravel.InformationCardGroup/HotTravel.InformationCardGroup.csproj</VirtualPath>
-    <Hash>a6edcd3e1a241bf8</Hash>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.InformationCardGroup/bin/HotTravel.InformationCardGroup.dll</VirtualPath>
+    <Hash>dc1d0e7e492bfaa4</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>Lucene</ExtensionId>
