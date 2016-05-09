@@ -10,7 +10,7 @@
     <ExtensionId>HotTravel.FeaturedDestinationGroup</ExtensionId>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/HotTravel.FeaturedDestinationGroup/bin/HotTravel.FeaturedDestinationGroup.dll</VirtualPath>
-    <Hash>6ef4f26307279485</Hash>
+    <Hash>6ef4f2ed0d2d7948</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>HotTravel.HeaderImageSection</ExtensionId>
@@ -28,7 +28,7 @@
     <ExtensionId>HotTravel.InformationCardGroup</ExtensionId>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/HotTravel.InformationCardGroup/bin/HotTravel.InformationCardGroup.dll</VirtualPath>
-    <Hash>dc1d0e7e492bfaa4</Hash>
+    <Hash>dc1d0f07e6186259</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>Lucene</ExtensionId>
