@@ -314,6 +314,9 @@
   <ItemGroup>
     <Content Include="HotTravelTheme\Views\MenuItemLink.cshtml" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="HotTravelTheme\Views\Fields\ContentPicker.cshtml" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

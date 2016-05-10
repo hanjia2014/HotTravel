@@ -4,7 +4,7 @@
     <ExtensionId>HotTravel.Carousel</ExtensionId>
     <LoaderName>DynamicExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/HotTravel.Carousel/HotTravel.Carousel.csproj</VirtualPath>
-    <Hash>5e193b647194e542</Hash>
+    <Hash>5e193c9ccba97a21</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>HotTravel.FeaturedDestination</ExtensionId>
