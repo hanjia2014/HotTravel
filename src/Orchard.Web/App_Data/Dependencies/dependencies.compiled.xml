@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
   <Dependency>
+    <ExtensionId>HotTravel.Carousel</ExtensionId>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.Carousel/HotTravel.Carousel.csproj</VirtualPath>
+    <Hash>5e193b647194e542</Hash>
+  </Dependency>
+  <Dependency>
     <ExtensionId>HotTravel.FeaturedDestination</ExtensionId>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/HotTravel.FeaturedDestination/bin/HotTravel.FeaturedDestination.dll</VirtualPath>
