@@ -1,0 +1,11 @@
+﻿Name: HotTravel.DestinationCategory
+AntiForgery: enabled
+Author: Han Jia
+Website: http://orchardproject.net
+Version: 1.0
+OrchardVersion: 1.0
+Category: Hot Travel
+Description: Description for the module
+Features:
+    HotTravel.DestinationCategory:
+        Description: Description for feature HotTravel.DestinationCategory.
