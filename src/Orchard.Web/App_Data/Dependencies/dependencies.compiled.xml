@@ -2,9 +2,15 @@
 <Dependencies>
   <Dependency>
     <ExtensionId>HotTravel.Carousel</ExtensionId>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/HotTravel.Carousel/HotTravel.Carousel.csproj</VirtualPath>
-    <Hash>5e193c9ccba97a21</Hash>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.Carousel/bin/HotTravel.Carousel.dll</VirtualPath>
+    <Hash>25376ca42f633711</Hash>
+  </Dependency>
+  <Dependency>
+    <ExtensionId>HotTravel.DestinationCategory</ExtensionId>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.DestinationCategory/bin/HotTravel.DestinationCategory.dll</VirtualPath>
+    <Hash>dbf0792c73456acd</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>HotTravel.FeaturedDestination</ExtensionId>
