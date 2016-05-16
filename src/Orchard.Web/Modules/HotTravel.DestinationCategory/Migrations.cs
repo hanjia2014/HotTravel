@@ -13,7 +13,7 @@ namespace HotTravel.DestinationCategory
 			SchemaBuilder.CreateTable("DestinationCategoryPartRecord", table => table
 				.ContentPartRecord()
 				.Column("Header", DbType.String)
-				.Column("Description", DbType.String)
+				.Column("Description", DbType.String, x => x.Unlimited())
 				.Column("LinkedPage", DbType.String)
 				.Column("Item1Title", DbType.String)
 				.Column("Item1Location", DbType.String)

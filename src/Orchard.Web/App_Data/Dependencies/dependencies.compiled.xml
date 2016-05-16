@@ -10,7 +10,7 @@
     <ExtensionId>HotTravel.DestinationCategory</ExtensionId>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/HotTravel.DestinationCategory/bin/HotTravel.DestinationCategory.dll</VirtualPath>
-    <Hash>dbf0792c73456acd</Hash>
+    <Hash>dbf07969b998ff12</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>HotTravel.FeaturedDestination</ExtensionId>
