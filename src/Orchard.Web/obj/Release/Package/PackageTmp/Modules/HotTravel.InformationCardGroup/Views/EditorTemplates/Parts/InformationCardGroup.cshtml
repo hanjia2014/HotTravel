@@ -1,0 +1,25 @@
+﻿@model HotTravel.InformationCardGroup.Models.InformationCardGroupPart
+
+<fieldset>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.HeaderVisible)
+    </div>
+    <div class="editor-field">
+        @Html.CheckBoxFor(model => model.HeaderVisible)
+        @Html.ValidationMessageFor(model => model.HeaderVisible)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Title)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.Title)
+        @Html.ValidationMessageFor(model => model.Title)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.LinkedPage)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.LinkedPage)
+        @Html.ValidationMessageFor(model => model.LinkedPage)
+    </div>
+</fieldset>

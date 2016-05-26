@@ -1,0 +1,8 @@
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.dll.config
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.ContentPicker.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.ContentPicker.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\obj\Release\Orchard.Pages.csprojResolveAssemblyReference.cache
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\obj\Release\Orchard.Pages.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\obj\Release\Orchard.Pages.pdb

@@ -1,0 +1,11 @@
+﻿Name: HotTravel.HeaderImageSection
+AntiForgery: enabled
+Author: Han Jia
+Website: http://orchardproject.net
+Version: 1.0
+OrchardVersion: 1.0
+Description: Description for the module
+Category: Hot Travel
+Features:
+    HotTravel.HeaderImageSection:
+        Description: Description for feature HotTravel.HeaderImageSection.

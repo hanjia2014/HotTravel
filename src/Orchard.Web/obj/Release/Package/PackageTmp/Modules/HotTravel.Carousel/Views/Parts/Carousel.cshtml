@@ -1,0 +1,27 @@
+﻿<section class="featured-slider">
+
+    <h3 class="hidden">Highlights</h3>
+
+    <div class="featured-carousel">
+        @{
+            foreach (var slide in Model.Slides)
+            {
+                <div class="item">
+                    <div class="bg-img" style="background-image: url('@slide.ImgUrl')"></div>
+                    <div class="color-hue"></div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12 col-md-6 col-md-offset-6">
+                                <article>
+                                    <h3>@slide.Title</h3>
+                                    <p class="lead">@slide.BodyText</p>
+                                    <a href="@slide.LinkedPage" class="btn btn-primary">Read More &nbsp; <i class="fa fa-angle-right"></i></a>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</section>

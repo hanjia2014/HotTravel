@@ -1,0 +1,11 @@
+﻿Name: HotTravel.Carousel
+AntiForgery: enabled
+Author: Han Jia
+Website: http://orchardproject.net
+Version: 1.0
+OrchardVersion: 1.0
+Description: Description for the module
+Category: Hot Travel
+Features:
+    HotTravel.Carousel:
+        Description: Description for feature HotTravel.Carousel.

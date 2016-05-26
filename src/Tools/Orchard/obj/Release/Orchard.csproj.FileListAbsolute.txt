@@ -1,0 +1,10 @@
+C:\Projects\HotTravel\src\Tools\Orchard\bin\Release\Orchard.exe.config
+C:\Projects\HotTravel\src\Tools\Orchard\bin\Release\Orchard.exe.manifest
+C:\Projects\HotTravel\src\Tools\Orchard\bin\Release\Orchard.application
+C:\Projects\HotTravel\src\Tools\Orchard\bin\Release\Orchard.exe
+C:\Projects\HotTravel\src\Tools\Orchard\bin\Release\Orchard.pdb
+C:\Projects\HotTravel\src\Tools\Orchard\obj\Release\Orchard.csprojResolveAssemblyReference.cache
+C:\Projects\HotTravel\src\Tools\Orchard\obj\Release\Orchard.exe.manifest
+C:\Projects\HotTravel\src\Tools\Orchard\obj\Release\Orchard.application
+C:\Projects\HotTravel\src\Tools\Orchard\obj\Release\Orchard.exe
+C:\Projects\HotTravel\src\Tools\Orchard\obj\Release\Orchard.pdb

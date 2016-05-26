@@ -1,0 +1,36 @@
+﻿@using Orchard.MediaLibrary.Fields;
+<section class="featured-destinations">
+    <div class="container">
+        <div class="cards overlap">
+
+            <!-- Section Title -->
+            <div class="title-row">
+                <h3 class="title-entry">@Model.Title</h3>
+                <a href="@Model.LinkedPage" class="btn btn-primary btn-xs">Find More &nbsp; <i class="fa fa-angle-right"></i></a>
+            </div>
+
+            <!-- Cards Row -->
+            <div class="row">
+            @foreach (var destination in Model.FeaturedDestinations)
+            {
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <article class="card">
+                        <a href="@destination.LinkedPage" class="featured-image" style="background-image: url('@destination.ImgUrl')">
+                            <div class="featured-img-inner"></div>
+                        </a>
+                        <div class="card-details">
+                            <h4 class="card-title"><a href="@destination.LinkedPage">@destination.Name</a></h4>
+                            <div class="meta-details clearfix">
+                                <ul class="hierarchy">
+                                    <li class="symbol"><i class="fa fa-map-marker"></i></li>
+                                    <li><a href="@destination.LinkedPage">@destination.Location</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            }
+            </div> <!-- /.row -->
+        </div>
+    </div>
+</section>

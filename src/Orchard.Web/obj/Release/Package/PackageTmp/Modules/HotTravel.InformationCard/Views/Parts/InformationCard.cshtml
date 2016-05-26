@@ -1,0 +1,16 @@
+﻿@{ 
+    var widthClass = @Model.IsWider ? "col-sm-12" : "col-sm-6";
+    widthClass = widthClass + " col-lg-4";
+}
+<div class="@widthClass">
+    <a href="@Model.LinkedPage" class="page-box-link">
+        <article class="page-box">
+            <h3 class="entry-title">@Model.Title</h3>
+            <p class="entry-excerpt">
+                @Model.Text
+            </p>
+            <p class="more-link">Read more</p>
+            <div class="page-box-destination"> <span><i class="fa fa-map-marker"></i> @Model.Location</span></div>
+        </article>
+    </a>
+</div>

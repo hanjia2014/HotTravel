@@ -1,0 +1,30 @@
+﻿@{ 
+    var classStr = "hero";
+    if (Model.IsOverlap)
+    {
+        classStr = string.Format("{0} hero-overlap", classStr);
+    }
+    if (Model.IsSmall)
+    {
+        classStr = string.Format("{0} small-hero", classStr);
+    }
+    if (Model.IsDestinationHeader)
+    {
+        classStr = string.Format("{0} destination-header", classStr);
+    }
+    if (Model.IsLarge)
+    {
+        classStr = string.Format("{0} large-hero", classStr);
+    }
+}
+
+<section class="@classStr" style="background-image: url('@Model.HeaderImageUrl');">
+    <div class="bg-overlay">
+        <div class="container">
+            <div class="intro-wrap">
+                <h1 class="intro-title">@Model.Title</h1>
+                <div class="intro-text">@Model.Description</div>
+            </div>
+        </div>
+    </div>
+</section>

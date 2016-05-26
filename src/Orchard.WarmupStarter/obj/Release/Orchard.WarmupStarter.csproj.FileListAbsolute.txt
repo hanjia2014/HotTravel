@@ -1,0 +1,5 @@
+C:\Projects\HotTravel\src\Orchard.WarmupStarter\bin\Release\Orchard.WarmupStarter.dll
+C:\Projects\HotTravel\src\Orchard.WarmupStarter\bin\Release\Orchard.WarmupStarter.pdb
+C:\Projects\HotTravel\src\Orchard.WarmupStarter\obj\Release\Orchard.WarmupStarter.csprojResolveAssemblyReference.cache
+C:\Projects\HotTravel\src\Orchard.WarmupStarter\obj\Release\Orchard.WarmupStarter.dll
+C:\Projects\HotTravel\src\Orchard.WarmupStarter\obj\Release\Orchard.WarmupStarter.pdb
