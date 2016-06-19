@@ -189,6 +189,12 @@
     </References>
   </Dependency>
   <Dependency>
+    <ModuleName>HotTravel.LinkPanel</ModuleName>
+    <VirtualPath>~/Modules/HotTravel.LinkPanel/HotTravel.LinkPanel.csproj</VirtualPath>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <References />
+  </Dependency>
+  <Dependency>
     <ModuleName>HotTravelTheme</ModuleName>
     <VirtualPath>~/Themes/HotTravelTheme</VirtualPath>
     <LoaderName>RawThemeExtensionLoader</LoaderName>
