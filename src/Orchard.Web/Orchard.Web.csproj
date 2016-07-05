@@ -180,7 +180,9 @@
   <ItemGroup>
     <Content Include="Config\Sites.config" />
     <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\hottravel - FTP %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\hottravel - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\hottravel - Web Deploy %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\hottravel - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

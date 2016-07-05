@@ -16,3 +16,4 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.WebP
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.WebPages.Razor.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.jQuery\obj\Release\Orchard.jQuery.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.jQuery\obj\Release\Orchard.jQuery.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.jQuery\obj\Release\Orchard.jQuery.csprojResolveAssemblyReference.cache

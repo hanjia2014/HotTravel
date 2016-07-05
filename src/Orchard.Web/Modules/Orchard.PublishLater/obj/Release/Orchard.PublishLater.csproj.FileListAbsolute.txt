@@ -16,3 +16,4 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.PublishLater\bin\System.We
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.PublishLater\bin\System.Web.WebPages.Razor.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.PublishLater\obj\Release\Orchard.PublishLater.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.PublishLater\obj\Release\Orchard.PublishLater.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.PublishLater\obj\Release\Orchard.PublishLater.csprojResolveAssemblyReference.cache

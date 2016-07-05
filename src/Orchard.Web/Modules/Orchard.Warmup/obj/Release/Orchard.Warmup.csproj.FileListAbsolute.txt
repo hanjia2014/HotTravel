@@ -16,3 +16,4 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.WarmUp\bin\System.Web.WebP
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.WarmUp\bin\System.Web.WebPages.Razor.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.WarmUp\obj\Release\Orchard.Warmup.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.WarmUp\obj\Release\Orchard.Warmup.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.WarmUp\obj\Release\Orchard.Warmup.csprojResolveAssemblyReference.cache

@@ -22,3 +22,4 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Users\bin\System.Web.WebPa
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Users\bin\Orchard.Tokens.pdb
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Users\obj\Release\Orchard.Users.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Users\obj\Release\Orchard.Users.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Users\obj\Release\Orchard.Users.csprojResolveAssemblyReference.cache

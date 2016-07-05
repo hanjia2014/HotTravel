@@ -20,3 +20,4 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.MessageBus\bin\System.Web.
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.MessageBus\bin\System.Web.WebPages.Razor.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.MessageBus\obj\Release\Orchard.MessageBus.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.MessageBus\obj\Release\Orchard.MessageBus.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.MessageBus\obj\Release\Orchard.MessageBus.csprojResolveAssemblyReference.cache

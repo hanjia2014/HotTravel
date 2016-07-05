@@ -24,3 +24,4 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Email\bin\System.Web.WebPa
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Email\bin\Orchard.Tokens.pdb
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Email\obj\Release\Orchard.Email.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Email\obj\Release\Orchard.Email.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Email\obj\Release\Orchard.Email.csprojResolveAssemblyReference.cache

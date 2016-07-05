@@ -18,3 +18,4 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.OutputCache\bin\System.Web
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.OutputCache\bin\System.Web.WebPages.Razor.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.OutputCache\obj\Release\Orchard.OutputCache.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.OutputCache\obj\Release\Orchard.OutputCache.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.OutputCache\obj\Release\Orchard.OutputCache.csprojResolveAssemblyReference.cache

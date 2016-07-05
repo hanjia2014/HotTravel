@@ -20,3 +20,4 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.AntiSpam\bin\System.Web.We
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.AntiSpam\bin\System.Web.WebPages.Razor.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.AntiSpam\obj\Release\Orchard.AntiSpam.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.AntiSpam\obj\Release\Orchard.AntiSpam.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.AntiSpam\obj\Release\Orchard.AntiSpam.csprojResolveAssemblyReference.cache

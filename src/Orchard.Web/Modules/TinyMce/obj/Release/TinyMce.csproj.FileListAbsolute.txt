@@ -16,3 +16,4 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\TinyMce\bin\System.Web.WebPages.De
 C:\Projects\HotTravel\src\Orchard.Web\Modules\TinyMce\bin\System.Web.WebPages.Razor.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\TinyMce\obj\Release\TinyMce.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\TinyMce\obj\Release\TinyMce.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\TinyMce\obj\Release\TinyMce.csprojResolveAssemblyReference.cache
