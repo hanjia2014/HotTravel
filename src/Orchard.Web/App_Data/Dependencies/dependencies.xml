@@ -95,8 +95,8 @@
   </Dependency>
   <Dependency>
     <ModuleName>HotTravel.FeaturedDestination</ModuleName>
-    <VirtualPath>~/Modules/HotTravel.FeaturedDestination/bin/HotTravel.FeaturedDestination.dll</VirtualPath>
-    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.FeaturedDestination/HotTravel.FeaturedDestination.csproj</VirtualPath>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
     <References>
       <Reference>
         <Name>Orchard.ContentPicker</Name>
@@ -117,13 +117,13 @@
   </Dependency>
   <Dependency>
     <ModuleName>HotTravel.FeaturedDestinationGroup</ModuleName>
-    <VirtualPath>~/Modules/HotTravel.FeaturedDestinationGroup/bin/HotTravel.FeaturedDestinationGroup.dll</VirtualPath>
-    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HotTravel.FeaturedDestinationGroup/HotTravel.FeaturedDestinationGroup.csproj</VirtualPath>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
     <References>
       <Reference>
         <Name>HotTravel.FeaturedDestination</Name>
-        <LoaderName>PrecompiledExtensionLoader</LoaderName>
-        <VirtualPath>~/Modules/HotTravel.FeaturedDestination/bin/HotTravel.FeaturedDestination.dll</VirtualPath>
+        <LoaderName>DynamicExtensionLoader</LoaderName>
+        <VirtualPath>~/Modules/HotTravel.FeaturedDestination/HotTravel.FeaturedDestination.csproj</VirtualPath>
       </Reference>
       <Reference>
         <Name>Orchard.ContentPicker</Name>
@@ -207,8 +207,8 @@
     <References>
       <Reference>
         <Name>ICSharpCode.SharpZipLib</Name>
-        <LoaderName>PrecompiledExtensionLoader</LoaderName>
-        <VirtualPath>~/Modules/Lucene/bin/ICSharpCode.SharpZipLib.dll</VirtualPath>
+        <LoaderName>DynamicExtensionLoader</LoaderName>
+        <VirtualPath>~/Modules/Orchard.ImageGallery/lib/ICSharpCode.SharpZipLib.dll</VirtualPath>
       </Reference>
       <Reference>
         <Name>Lucene.Net</Name>
@@ -1488,13 +1488,13 @@
     <References>
       <Reference>
         <Name>ICSharpCode.SharpZipLib</Name>
-        <LoaderName>PrecompiledExtensionLoader</LoaderName>
-        <VirtualPath>~/Modules/Lucene/bin/ICSharpCode.SharpZipLib.dll</VirtualPath>
+        <LoaderName>DynamicExtensionLoader</LoaderName>
+        <VirtualPath>~/Modules/Orchard.ImageGallery/lib/ICSharpCode.SharpZipLib.dll</VirtualPath>
       </Reference>
       <Reference>
         <Name>Ionic.Zip</Name>
-        <LoaderName>PrecompiledExtensionLoader</LoaderName>
-        <VirtualPath>~/Modules/Orchard.Media/bin/Ionic.Zip.dll</VirtualPath>
+        <LoaderName>DynamicExtensionLoader</LoaderName>
+        <VirtualPath>~/Modules/Orchard.ImageGallery/bin/Ionic.Zip.dll</VirtualPath>
       </Reference>
       <Reference>
         <Name>Orchard.MediaLibrary</Name>
@@ -1603,8 +1603,8 @@
     <References>
       <Reference>
         <Name>Ionic.Zip</Name>
-        <LoaderName>PrecompiledExtensionLoader</LoaderName>
-        <VirtualPath>~/Modules/Orchard.Media/bin/Ionic.Zip.dll</VirtualPath>
+        <LoaderName>DynamicExtensionLoader</LoaderName>
+        <VirtualPath>~/Modules/Orchard.ImageGallery/bin/Ionic.Zip.dll</VirtualPath>
       </Reference>
     </References>
   </Dependency>
@@ -1615,8 +1615,8 @@
     <References>
       <Reference>
         <Name>Ionic.Zip</Name>
-        <LoaderName>PrecompiledExtensionLoader</LoaderName>
-        <VirtualPath>~/Modules/Orchard.Media/bin/Ionic.Zip.dll</VirtualPath>
+        <LoaderName>DynamicExtensionLoader</LoaderName>
+        <VirtualPath>~/Modules/Orchard.ImageGallery/bin/Ionic.Zip.dll</VirtualPath>
       </Reference>
       <Reference>
         <Name>Orchard.Media</Name>

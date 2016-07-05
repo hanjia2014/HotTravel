@@ -145,6 +145,7 @@
     <Content Include="HotTravelTheme\Scripts\navigation.js" />
     <Content Include="HotTravelTheme\Scripts\owl.carousel.min.js" />
     <Content Include="HotTravelTheme\Styles\bootstrap.min.css" />
+    <Content Include="HotTravelTheme\Styles\default-grid.css" />
     <Content Include="HotTravelTheme\Styles\font-awesome.min.css" />
     <Content Include="HotTravelTheme\Styles\imports.css" />
     <Content Include="HotTravelTheme\Styles\navigation.css" />

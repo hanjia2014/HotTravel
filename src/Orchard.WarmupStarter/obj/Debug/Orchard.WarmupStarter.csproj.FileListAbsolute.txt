@@ -7,3 +7,4 @@ C:\Projects\HotTravel_backup\src\Orchard.WarmupStarter\bin\Debug\Orchard.WarmupS
 C:\Projects\HotTravel_backup\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.csprojResolveAssemblyReference.cache
 C:\Projects\HotTravel_backup\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.dll
 C:\Projects\HotTravel_backup\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.pdb
+C:\Projects\HotTravel\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.csprojResolveAssemblyReference.cache
