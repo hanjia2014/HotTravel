@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{E9C9F120-07BA-4DFB-B9C3-3AFB9D44C9D5}"
 EndProject
@@ -291,6 +291,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotTravel.DestinationCategory", "Orchard.Web\Modules\HotTravel.DestinationCategory\HotTravel.DestinationCategory.csproj", "{2091C020-5C2C-4A03-BC45-C1797E97EB96}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotTravel.LinkPanel", "Orchard.Web\Modules\HotTravel.LinkPanel\HotTravel.LinkPanel.csproj", "{31D9DDAF-26FA-4E05-A349-BB2AB9499244}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchard.Gallery", "Orchard.Web\Modules\Orchard.Gallery\Orchard.Gallery.csproj", "{B69D91B7-71E2-4E95-88EA-A1754126A56E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1198,6 +1200,16 @@ Global
 		{31D9DDAF-26FA-4E05-A349-BB2AB9499244}.FxCop|Any CPU.Build.0 = Release|Any CPU
 		{31D9DDAF-26FA-4E05-A349-BB2AB9499244}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31D9DDAF-26FA-4E05-A349-BB2AB9499244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B69D91B7-71E2-4E95-88EA-A1754126A56E}.CodeCoverage|Any CPU.ActiveCfg = Release|Any CPU
+		{B69D91B7-71E2-4E95-88EA-A1754126A56E}.CodeCoverage|Any CPU.Build.0 = Release|Any CPU
+		{B69D91B7-71E2-4E95-88EA-A1754126A56E}.Coverage|Any CPU.ActiveCfg = Release|Any CPU
+		{B69D91B7-71E2-4E95-88EA-A1754126A56E}.Coverage|Any CPU.Build.0 = Release|Any CPU
+		{B69D91B7-71E2-4E95-88EA-A1754126A56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69D91B7-71E2-4E95-88EA-A1754126A56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69D91B7-71E2-4E95-88EA-A1754126A56E}.FxCop|Any CPU.ActiveCfg = Release|Any CPU
+		{B69D91B7-71E2-4E95-88EA-A1754126A56E}.FxCop|Any CPU.Build.0 = Release|Any CPU
+		{B69D91B7-71E2-4E95-88EA-A1754126A56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69D91B7-71E2-4E95-88EA-A1754126A56E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1293,6 +1305,7 @@ Global
 		{C50B2629-4521-4BB0-8CEE-DCF96C84109E} = {E9C9F120-07BA-4DFB-B9C3-3AFB9D44C9D5}
 		{2091C020-5C2C-4A03-BC45-C1797E97EB96} = {E9C9F120-07BA-4DFB-B9C3-3AFB9D44C9D5}
 		{31D9DDAF-26FA-4E05-A349-BB2AB9499244} = {E9C9F120-07BA-4DFB-B9C3-3AFB9D44C9D5}
+		{B69D91B7-71E2-4E95-88EA-A1754126A56E} = {E9C9F120-07BA-4DFB-B9C3-3AFB9D44C9D5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		EnterpriseLibraryConfigurationToolBinariesPath = packages\TransientFaultHandling.Core.5.1.1209.1\lib\NET4

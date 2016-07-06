@@ -1,11 +1,3 @@
-C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.dll.config
-C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.dll
-C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.pdb
-C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.ContentPicker.dll
-C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.ContentPicker.pdb
-C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.csprojResolveAssemblyReference.cache
-C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.dll
-C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.pdb
 C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.dll.config
 C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.dll
 C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.pdb
@@ -14,3 +6,11 @@ C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.C
 C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.csprojResolveAssemblyReference.cache
 C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.dll
 C:\Projects\HotTravel_backup\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.dll.config
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.ContentPicker.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.ContentPicker.pdb
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.csprojResolveAssemblyReference.cache
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.dll
+C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.pdb
