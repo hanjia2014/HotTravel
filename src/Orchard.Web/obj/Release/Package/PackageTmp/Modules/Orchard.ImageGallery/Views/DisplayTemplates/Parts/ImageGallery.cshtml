@@ -6,10 +6,14 @@
 
 @using (Script.Head()) {
     
-<script type="text/javascript">    
-    $(document).ready(function () {
-        @Html.ImageGalleryScript(".image-gallery a", Model.ImageGalleryPlugin) 
-    });
+<script type="text/javascript">
+    @*$(document).ready(function () {
+        @Html.ImageGalleryScript(".image-gallery a", Model.ImageGalleryPlugin)
+    });*@
+
+    (function ($) {
+        @Html.ImageGalleryScript(".image-gallery a", Model.ImageGalleryPlugin)
+    })(jQuery);
 </script>
     
 }

@@ -104,4 +104,3 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.ImageGallery\bin\M
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.ImageGallery\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.ImageGallery\bin\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.ImageGallery\bin\Iesi.Collections.xml
-C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.ImageGallery\obj\Debug\Orchard.ImageGallery.csprojResolveAssemblyReference.cache

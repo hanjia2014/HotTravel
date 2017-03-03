@@ -28,8 +28,6 @@ C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.Razor
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.Deployment.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.Razor.dll
-C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Azure\bin\WindowsAzureTelemetryEvents.dll
-C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Azure\bin\WindowsAzureEventSource.dll
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Azure\bin\Orchard.OutputCache.pdb
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Azure\bin\Iesi.Collections.xml
 C:\Projects\HotTravel\src\Orchard.Web\Modules\Orchard.Azure\bin\log4net.xml

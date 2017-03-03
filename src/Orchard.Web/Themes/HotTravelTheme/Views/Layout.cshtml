@@ -25,11 +25,10 @@
     Script.Include("custom.js");
     Script.Include("owl.carousel.min.js");
     Script.Include("navigation.js");
-
     /* Some useful shortcuts or settings
     ***************************************************************/
 
-    Func<dynamic, dynamic> Zone = x => Display(x); // Zone as an alias for Display to help make it obvious when we're displaying zones
+    Func <dynamic, dynamic> Zone = x => Display(x); // Zone as an alias for Display to help make it obvious when we're displaying zones
 
     /* Layout classification based on filled zones
     ***************************************************************/
@@ -83,16 +82,16 @@
                 <div class="navbar container-fluid">
                     <ul class="nav navbar-nav navbar-left">
                         <li class="menu-item"><a href="contact.html"><i class="fa fa-envelope"></i> Contact Us</a></li>
-                        <li class="menu-item"><a href="#"><i class="fa fa-suitcase"></i> Join the Explorers!</a></li>
-                        <li class="menu-item"><a href="/admin"><i class="fa fa-sign-in"></i> Sign in</a></li>
+                        @*<li class="menu-item"><a href="#"><i class="fa fa-suitcase"></i> Join the Explorers!</a></li>
+                        <li class="menu-item"><a href="/admin"><i class="fa fa-sign-in"></i> Sign in</a></li>*@
                     </ul>
                     <div class="navbar-top-right">
-                        <ul class="nav navbar-nav navbar-right">
+                        @*<ul class="nav navbar-nav navbar-right">
                             <li><a href="#"><i class="fa fa-facebook fa-fw"></i></a></li>
                             <li><a href="#"><i class="fa fa-google-plus fa-fw"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter fa-fw"></i></a></li>
                             <li><a href="#"><i class="fa fa-instagram fa-fw"></i></a></li>
-                        </ul>
+                        </ul>*@
                         <form class="navbar-form navbar-right navbar-search" role="search" action="search.html">
                             <div class="form-group">
                                 <input type="text" class="form-control" placeholder="Search">
@@ -105,7 +104,7 @@
 
             <div class="container-fluid collapse-md" id="navbar-main-container">
                 <div class="navbar-header">
-                    <a href="index.html" class="navbar-brand"><img alt="GoExplore!" src="@Url.Content("~/Themes/HotTravelTheme/Content/Images/logo.png")"><span class="sr-only">&nbsp; GoExplore!</span></a>
+                    <a href="/" class="navbar-brand"><img alt="GoExplore!" src="@Url.Content("~/Themes/HotTravelTheme/Content/Images/logo.jpg")"><span class="sr-only">&nbsp; GoExplore!</span></a>
                     <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
